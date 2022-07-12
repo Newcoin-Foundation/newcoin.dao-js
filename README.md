@@ -18,9 +18,9 @@ Web library can be found in the [dist] folder
 
 ```javascript
 // standard import
-const { ActionGenerator, ChainApi } = require("newcoindao");
+const { ActionGenerator, ChainApi } = require("@newcoin-foundation/newcoin.dao-js");
 // ES6 import
-import { ActionGenerator, ChainApi } from "newcoindao";
+import { ActionGenerator, ChainApi } from "@newcoin-foundation/newcoin.dao-js";
 ```
 
 ## Documentation
